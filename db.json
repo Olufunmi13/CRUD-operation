@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "name": "Ajuebor Goodness",
+      "email": "ajueborgood@gmail.com",
+      "phoneNumber": "09033333333",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Kingsley Stone",
+      "email": "kingstone@gmail.com",
+      "phoneNumber": "09033333333"
+    },
+    {
+      "id": 5,
+      "name": "Kingsley Stone",
+      "email": "kingstone@gmail.com",
+      "phoneNumber": "09033333333"
+    },
+    {
+      "id": 5,
+      "name": "Kingsley Stone",
+      "email": "kingstone@gmail.com",
+      "phoneNumber": "09033333333"
+    },
+    {
+      "id": 5,
+      "name": "Kingsley Stone",
+      "email": "kingstone@gmail.com",
+      "phoneNumber": "09033333333"
+    },
+    {
+      "id": 5,
+      "name": "Kingsley Stone",
+      "email": "kingstone@gmail.com",
+      "phoneNumber": "09033333333"
+    },
+    {
+      "id": 5,
+      "name": "Kingsley Stone",
+      "email": "kingstone@gmail.com",
+      "phoneNumber": "09033333333"
+    },
+    {
+      "id": 5,
+      "name": "Kingsley Stone",
+      "email": "kingstone@gmail.com",
+      "phoneNumber": "09033333333"
+    },
+    {
+      "id": 5,
+      "name": "Kingsley Stone",
+      "email": "kingstone@gmail.com",
+      "phoneNumber": "09033333333"
+    },
+    {
+      "id": 5,
+      "name": "Kingsley Stone",
+      "email": "kingstone@gmail.com",
+      "phoneNumber": "09033333333"
+    },
+    {
+      "name": "Olufunke FOLASADE Oluwatuyi",
+      "email": "cw_9661349@outlook.com",
+      "phoneNumber": "08138566275",
+      "id": 6
+    },
+    {
+      "name": "Olufunke Oluwatuyi",
+      "email": "cw_9661349@outlook.com",
+      "phoneNumber": "2348138566275",
+      "id": 7
+    },
+    {
+      "name": "Olufunke Oluwatuyi",
+      "email": "funmikeoluwatuyi@gmail.com",
+      "phoneNumber": "08138566275",
+      "id": 9
+    },
+    {
+      "name": "Uiuk",
+      "email": "euodiaperfumery@gmail.com",
+      "phoneNumber": "8138566275",
+      "id": 12
+    },
+    {
+      "name": "Oluwatuyi Olufunke",
+      "email": "funmikeoluwatuyi@gmail.com",
+      "phoneNumber": "08138566275",
+      "id": 15
+    }
+  ]
+}
